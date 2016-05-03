@@ -1,5 +1,6 @@
 # hatena-blog
 
+This is a fork of [hatena-blog-entry-post](https://atom.io/packages/hatena-blog-entry-post).
 Quickly and easily post current file or selection from Atom to your [Hatena Blog](http://hatenablog.com/) and upload images to your [fotolife](http://f.hatena.ne.jp/)
 
 ## Post entry
