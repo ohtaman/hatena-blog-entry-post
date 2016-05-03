@@ -1,4 +1,4 @@
-# hatena-blog-entry-post
+# hatena-blog
 
 Quickly and easily post current file or selection from Atom to your [Hatena Blog](http://hatenablog.com/) and upload images to your [fotolife](http://f.hatena.ne.jp/)
 

@@ -11,7 +11,7 @@ describe "HatenaBlogPost", ->
 
   beforeEach ->
     atom.workspaceView = new WorkspaceView
-    activationPromise = atom.packages.activatePackage('hatena-blog-entry-post')
+    activationPromise = atom.packages.activatePackage('hatena-blog')
 
   describe "when the hatena-blog:toggle event is triggered", ->
     it "attaches and then detaches the view", ->

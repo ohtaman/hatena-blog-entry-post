@@ -158,7 +158,7 @@ class HatenablogView extends View
         atom.notifications.addSuccess("Posted at #{entryURL}", dismissable: true)
         console.log res
 
-        if atom.config.get('hatena-blog-entry-post.openAfterPost') is true
+        if atom.config.get('hatena-blog.openAfterPost') is true
           console.log "open #{entryURL}"
           open "#{entryURL}"
 
